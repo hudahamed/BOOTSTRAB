@@ -1,0 +1,147 @@
+﻿.main{
+ background-color:black;
+ background-position:center center;
+ background-size:cover;
+color:white;
+text-align:center;
+height:150px;
+
+}
+
+
+.jumbotron{
+
+    background-image: url("../img/header-img2.jpg") ;
+   
+ background-repeat: no-repeat;
+   
+ background-size: 100%;
+    
+color: #bdc3c7;
+padding-top:30px;
+text-align:center;
+ margin-bottom: 0px;
+    
+   
+min-height: 100%;
+
+}
+
+
+.myfont{
+   
+ background-color: #9b59b6;
+color:white;
+}
+.mypadding{
+margin-left:30px;
+}
+
+
+
+
+.mylook{
+ background-size: 100%;
+ 
+
+
+}
+
+.learn-class{
+
+ background-image: url("../img/images11.jpg") ;
+ 
+ min-height: 400px;
+  
+  background-attachment: fixed;
+    
+background-position: center;
+    
+background-repeat: no-repeat;  
+    
+background-size: cover;
+   
+    
+
+padding-top:30px;
+ 
+}
+#contact{
+   
+ padding-top: 100px;
+
+ padding-bottom: 100px;
+   
+ background-color: #34495e;
+
+}
+
+
+.mycenter{
+text-align:center;
+padding-bottom:20px;
+}
+
+
+
+
+.mylist{
+    
+list-style-type: none;
+color:white;
+
+
+}
+
+.mylists{
+
+
+list-style-type: none;
+color:#dff9fb;
+}
+
+
+.mylisten{
+
+list-style-type: none;
+color:#95a5a6;
+}
+
+
+
+.fixUl{
+ 
+ 
+
+}
+
+
+
+
+
+.myfooter{
+
+
+text-align:center;
+}
+
+
+#btnScroll{
+    
+display: none;
+    
+position: fixed;
+    
+bottom: 30px;
+    
+right: 40px;
+    
+z-index: 99;
+    
+cursor: pointer;
+   
+ padding: 16px;
+
+
+}
+
